@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="index.html" content="臺北市導遊協會, 台北市导游协会, Taipei Tour Guide Association, 台北市ガイド協会, Hiệp hội Hướng dẫn thành phố Đài Bắc, เมืองไทเปแนะนำสมาคม,  Taipei Guides Association, 自由行, 台北旅游, 台湾旅游, 台湾自由行, 车导, Taipei FIT, Taipei travel, Taiwan travel">
+    <meta name="author" content="臺北市導遊協會">
+    <meta name="title" content="臺北市導遊協會" />
+    <meta name="description" content="臺北市導遊協會提供台湾自由行, Taipei travel, Taiwan travel 訊息跟導遊服務" />
+    <meta property="og:description" content="臺北市導遊協會, 台北市导游协会, Taipei Tour Guide Association, 台北市ガイド協会, Hiệp hội Hướng dẫn thành phố Đài Bắc, เมืองไทเปแนะนำสมาคม,  Taipei Guides Association" />
+    <meta property="og:title" content="臺北市導遊協會, 台北市导游协会, Taipei Tour Guide Association, 台北市ガイド協会, Hiệp hội Hướng dẫn thành phố Đài Bắc, เมืองไทเปแนะนำสมาคม,  Taipei Guides Association" />
+    <link rel="shortcut icon" href="http://www.guide.org.tw/images/Logo-3.ico">
+    <!-- Booking.com referal -->
+    <meta name='B-verify' content='7e0155f169ed6c3c7c1d33e63e02a09f5a45df47' />
+    <title>臺北市導遊協會 [Taipei Tour Guide Association]</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/stylish-portfolio.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WLHGXNH"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WLHGXNH');</script>
+    <!-- End Google Tag Manager -->
+    
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '384708111891192'); // Insert your pixel ID here.
+        fbq('track', 'PageView');
+    </script>
+    
+    <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=384708111891192&ev=PageView&noscript=1"
+        /></noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
+    
+</head>
+<!-- NAVBAR
+================================================== -->
+  <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          </button>
+          <a class="navbar-brand" href="#">關於臺北市導遊協會</a>
+        </div>
+
+      </div>
+    </nav>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <h1><br><br>關於臺北市導遊協會</h1>
+        <br>
+        <p>我們是由一群臺北市導遊組成的團體。</p>
+        <br><br><br>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-4">
+          <h2>協會章程</h2>
+          <p>
+		  協會章程於上一次會員大會修訂，請連接另一網頁。
+          <p><a class="btn btn-default" href="charter.html" role="button">章程 &raquo;</a></p>
+			<br><br><br>
+        </div>
+        <div class="col-md-4">
+          <h2>理監事及幹部</h2>
+           臺北市導遊協會在2002年5月25日由一批會員發起成立, 包括張繁重、黃月桂、蘇志郎、黃素貞、施鍾武、朱瑞徵、徐浩敏等人, 經由前會長<a href="mailto:darrenlin123@hotmail.com">林德仁(2002~)</a>/<a href="mailto:amyhuang0719@hotmail.com">黃月桂(2008~)</a>及現任會長<a href="mailto:cphd1168@gmail.com">陳文錦</a>
+           的努力, 提供一個園地讓臺北市導遊交流訊息用。
+
+           <br>
+           立案證書: 臺北市政府社會局(北市社會字第2037號)
+            <br>
+            理事長 陳文錦, cphd1168@gmail.com
+            <br>
+			副理事長 吳榮枝, wu@wan-hai.com.tw
+			<br>
+			理事 洪理夫, hunglifu1946@gmail.com
+			<br>
+			理事 李培堯, patrickli36@gmail.com
+			<br>
+			理事 洪文豊, vic5058@yahoo.com.tw
+			<br>
+			理事 許元皇, ga_hsu002@yahoo.com.tw
+			<br>
+			理事 吳仲明, gordon.wu.zm@gmail.com
+			<br>
+			理事 邱宜昌, mary4748@yahoo.com.tw
+			<br>
+			理事 陳立山, yoho12345@gmail.com
+			<br>
+			理事 許崇祥, ambrose7@yam.com
+			<br>
+			理事 何玉蘭, yulan816@ms79.hinet.net
+			<br>
+			理事 洪捷勝, sheng811@yahoo.com.tw
+			<br>
+			理事 童碧蓮, jennydong@yahoo.com
+			<br>
+			理事 謝筱筠, sharonanycall168@yahoo.com.tw
+			<br>
+			理事 賈若愚, max_2626@yahoo.com.tw
+			<br>
+			候補理事 陳君玉, jade793.chen@msa.hinet.net
+			<br>
+			候補理事 徐慧明, ming2000may03@yahoo.com.tw
+			<br>
+			候補理事 張中石, Pooan6592@yahoo.com.tw
+			<br>
+			<br>
+			監事 翁榮二, oye222@ms78.hinet.net 
+			<br>
+			監事 楊玉枝, cindy930901@yahoo.com.tw 
+			<br>
+			監事 施炎基, cng312@yahoo.com.tw
+			<br>
+			候補監事 王三郎, sw201299@gmail.com
+			<br>
+			<br>
+			總幹事 潘仲良, julian582003@gmail.com
+			<br>
+			副總幹事 陳慧中, cwc1688@hotmail.com
+			<br>
+			執行秘書 桑益慶, louissang0038@gmail.com
+			<br><br>
+			行政總務委員會 吳榮枝、楊玉枝
+			<br><br>			
+			教育訓練委員會 羅稼峻, rimanan5566@yahoo.com.tw、邱宜昌
+			<br><br>
+			會員擴展委員會 何玉蘭、陳茂偉, kib13449@gmail.com
+			<br><br>
+			康樂福利委員會 吳仲明、徐慧明
+			<br><br>
+			兩岸交流委員會 彭蘇進, roger.peng@chapel-hill.com.tw
+			<br><br>
+			行銷推展委員會 翁晟譯, jojwong217@gmail.com
+			<br><br>
+			東南亞委員會 童碧蓮、陳慧中
+			<br><br>
+			資訊服務委員會 鄭智緯, tourcheng@gmail.com、林明獅, linminshih@gmail.com
+			<br><br>
+			公共關係委員會
+			<br><br>
+			財務會計委員會
+			<br><br>
+			企畫創意委員會
+			<br><br>
+			法制協調委員會
+			<br><br>
+			緊急事故委員會
+			<br><br><br>
+       </div>
+	   
+	   
+        <div class="col-md-4">
+          <h2>最新消息</h2>
+          <p>每月至少更新一次。</p>
+          <p><a class="btn btn-default" href="news.html" role="button">最新消息 &raquo;</a></p>
+		  
+        </div>
+      </div>
+	<br><br><br>
+	  
+    <!-- Message Services -->
+    <section id="services" class="services bg-primary">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <h2>Our Instant Message Groups</h2>
+                    <hr class="small">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service-item">
+                                <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-bed fa-stack-1x text-primary"></i>
+                            </span>
+                                <h4>
+                                    <strong>領隊群組</strong>
+                                </h4>
+                                    <td><img src="http://www.guide.org.tw/images/Line_Leader.png" alt="Mountain View" style="width:240px;height:340px"></td>	
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service-item">
+                                <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-car fa-stack-1x text-primary"></i>
+                            </span>
+                                 <h4>
+                                    <strong>LINE群組(英語)</strong>
+                                </h4>
+									<img src="http://www.guide.org.tw/images/LINE_Pic2.png" alt="Mountain View" style="width:240px;height:340px"></td>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service-item">
+                                <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-plus-square fa-stack-1x text-primary"></i>
+                            </span>
+                                <h4>
+                                    <strong>LINE群組(日語)</strong>
+                                </h4>
+									<img src="http://www.guide.org.tw/images/LINE_Pic3.png" alt="Mountain View" style="width:240px;height:340px">
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.row (nested) -->
+                </div>
+                <!-- /.col-lg-10 -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+	  
+	  
+	  
+
+      <footer>
+        <p>&copy; Taipei Tour Guide Association 2017</p>
+      </footer>
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+    
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-64942354-1', 'auto');
+        // Set multiple fields.
+        ga('set', {
+          page: '/about',
+          title: 'About Us'
+        });
+    </script>
+    
+  </body>
+</html>
